@@ -1,0 +1,10 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    background: linear-gradient(to right, rgb(100, 33, 255),rgb(255, 95, 234));
+    width: 1000px;
+    height: 1000px;
+}
