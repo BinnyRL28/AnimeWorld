@@ -3,6 +3,10 @@
  <p>Bienvenidos a AnimeWorld, un lugar donde encontrarás todo tipo de producto relacionado al Anime.
 Desde accesorios hasta cosplay</p>
 
+* <h1 style="font-size:40px; font-family:cursive;">Video</h1>
+
+<video src="assets/Video/video.mp4" width="640px" height="480px"></video>
+
 ## Metodologias
 
 * <h1 style="font-size:40px; font-family:cursive;">Design Thinking</h1>
