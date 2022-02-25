@@ -1,11 +1,7 @@
 # <h0 style="font-size:60px; font-family:monospace;">AnimeWorld</h0>
 
- <p>Bienvenidos a AnimeWorld, un lugar donde encontrarás todo tipo de producto relacionado al Anime.
+<p>Bienvenidos a AnimeWorld, un lugar donde encontrarás todo tipo de producto relacionado al Anime.
 Desde accesorios hasta cosplay</p>
-
-*<p>Aqui esta el link de la pagina <a href="http://www.animeworld.com.mialias.net/tienda/">http://www.animeworld.com.mialias.net/tienda/</a> </p>
-*<p>El link de FB <a href="https://web.facebook.com/AnimeWorld-102933282338598?_rdc=1&_rdr">https://web.facebook.com/AnimeWorld-102933282338598?_rdc=1&_rdr</a> </p>
-*<p>El link de Instagram <a href="https://www.instagram.com/mundo_anime30/?hl=es-la">https://www.instagram.com/mundo_anime30/?hl=es-la</a> </p>
 
 ## Metodologias
 
@@ -89,3 +85,9 @@ Desde accesorios hasta cosplay</p>
 <p align = "center">
   <img src="assets/img/Learn StartUp/10.png" style="margin-top:40px;"/>
 </p>
+
+###<h1 style="font-size:40px; font-family:cursive;">Links</h1>
+
+*<p><a href="http://www.animeworld.com.mialias.net/tienda/">Aqui esta el link de la pagina </a></p>
+*<p> <a href="https://web.facebook.com/AnimeWorld-102933282338598?_rdc=1&_rdr">El link de Fb</a></p>
+*<p> <a href="https://www.instagram.com/mundo_anime30/?hl=es-la">El link de Instagram</a></p>
