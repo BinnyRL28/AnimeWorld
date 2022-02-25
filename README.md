@@ -3,9 +3,11 @@
  <p>Bienvenidos a AnimeWorld, un lugar donde encontrarás todo tipo de producto relacionado al Anime.
 Desde accesorios hasta cosplay</p>
 
-* <h1 style="font-size:40px; font-family:cursive;">Video</h1>
-
-<video src="assets/Video/video.mp4" width="640px" height="480px"></video>
+ *<p>Aqui esta el link de la pagina <a>http://www.animeworld.com.mialias.net/tienda/</a></p>
+ *<p>El link de FB <a>https://web.facebook.com/AnimeWorld-102933282338598?_rdc=1&_rdr
+</a></p>
+ *<p>El link de Instagram <a>https://www.instagram.com/mundo_anime30/?hl=es-la
+</a></p>
 
 ## Metodologias
 
