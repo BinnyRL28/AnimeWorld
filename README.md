@@ -89,10 +89,13 @@ Desde accesorios hasta cosplay</p>
 ### <h1 style="font-size:40px; font-family:cursive;">Links</h1>
 
 * <p><a href="http://www.animeworld.com.mialias.net/tienda/">Aqui esta el link de la pagina </a></p>
-* <p> <a href="https://web.facebook.com/AnimeWorld-102933282338598?_rdc=1&_rdr">El link de Fb</a></p>
+* <p> <a href="https://web.facebook.com/AnimeWorld-102933282338598?_rdc=1&_rdr">El link de FB</a></p>
 * <p> <a href="https://www.instagram.com/mundo_anime30/?hl=es-la">El link de Instagram</a></p>
 
 * <p>Usuario y contraseña de CDMON:</p>
   <p>Usuario: animew137</p>
   <p>Contraseña: ZbZi3on1</p>
+
+* <p><a href="https://drive.google.com/file/d/1HnDCKHwJYafunzfF5Add_l-1dmcMSDNB/view?usp=sharing">Link Video de la explicación del readme</a></p>
+
 
