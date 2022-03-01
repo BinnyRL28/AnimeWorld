@@ -4,7 +4,16 @@
 }
 
 body{
-    background: linear-gradient(to right, rgb(100, 33, 255),rgb(255, 95, 234));
-    width: 1000px;
-    height: 1000px;
+    background: black;
+}
+
+p{
+    align-items: center;
+    justify-content: center;
+    justify-content: justify;
+    margin: 250px auto;
+    width: 500px;
+    padding: 15px;
+    background-color: rgba(168, 40, 253, 0.568) ;
+    color:white;
 }
